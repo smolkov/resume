@@ -23,22 +23,36 @@
     
     * TOC Analysator für partikelarme Wässer ist ein kontinuierliches Messgerät zur Online Bestimmung des gesamten organischen Kohlenstoffs (TOC) und des gelösten organischen Kohlenstoffs (DOC) in Reinst-, Trink-, Oberflächen- und Abwässern.
 
-    - Entwickungubgebung und CI/CD: `git`, `github`, `dpkg`, `LINUX
+    - Entwicklungumgebung und CI/CD: `Raspberry`, git`, `github`, `cargo`, `github-flow`, `linux`,`dpkg-server`,`ssh`, `vs code`, `vim`
+    - Hardware: `STM`,`Cortex`, `Touch Panel PC`
+    - OS: `linux`, `dbus`
+    - Graphischebenutzeroberflache `C`, `GTK3`, `X Server`, `Glade`, `nodm`
+    - Datenbank: `Sqlite`, `Redis`
+    - Webschnittschtelle: `js`, `vue`
+    - API: `go`
+
+   * Messtation 
+      - Entwicklungumgebung und CI/CD: `git`, `trac`, `make`,`jenkins`, `linux`,`dpkg-server`,`ssh`, `vs code`, `vim`
+      - Hardware: `Raspberry`
+      - Graphischebenutzeroberflache `Python`, `GTK3`, `X Server`, `Glade`
+      - API: `Python`
+      - Datenbank: `Sqlite`
 
     * Software fur TOC Analysator für schwierigste Abwasserapplikationen. **Im Gegensatz zu anderen TOC Messgeräten kann der QuickTOCultra durch ein einzigartiges Injektions- und Oxidationssystem selbst adhäsive, fettige, salzhaltige und partikelhaltige Proben einfach handhaben.**
     Mit der höchsten Verbrennungstemperatur auf dem Markt bietet das Messgerät ein Höchstmaß an Zuverlässigkeit, Verfügbarkeit und damit die Rentabilität für ihre Betreiber in der TOC-Analyse.
     - Entwicklungumgebung und CI/CD: `git`, `trac`, `make`,`jenkins`, `linux`,`dpkg-server`,`ssh`, `vs code`, `vim`
+    - Hardware: `CAN`, `Touch Panel PC`
     - OS: `linux`, `dbus`
     - Graphischebenutzeroberflache `C`, `GTK3`, `X Server`, `Glade`, `nodm`
     - Datenbank: `Sqlite`, `Redis`
     - Webschnittschtelle: `js`, `vue`
     - API: `go`
   
-
-    * Als Toxizität (Giftigkeit) bezeichnet man die direkte schädliche Wirkung von Substanzen auf Organismen. Sie kann sich auf ganze Organismen oder nur auf bestimmte Bereiche, z.B. auf eine Zelle, auswirken. Die toxische Wirkung hängt von der Schadstoff-Konzentration, von der Empfindlichkeit der Organismen sowie von der Inkubationszeit ab. Schon bei geringen Konzentrationen kann diese auftreten.
-    - Entwicklungumgebung und CI/CD: `svn`, `trac`, `automake`,`jenkins`,`valgrind`,`virtualbox`, `dpkg-package`,`ssh`
+    
+    * *Als Toxizität (Giftigkeit) bezeichnet man die direkte schädliche Wirkung von Substanzen auf Organismen. Sie kann sich auf ganze Organismen oder nur auf bestimmte Bereiche, z.B. auf eine Zelle, auswirken. Die toxische Wirkung hängt von der Schadstoff-Konzentration, von der Empfindlichkeit der Organismen sowie von der Inkubationszeit ab. Schon bei geringen Konzentrationen kann diese auftreten.*
+    - Hardware: `CAN`, `Touch Panel PC`
+    - Entwicklungumgebung und CI/CD: `svn`, `trac`, `automake`,`jenkins`,`valgrind`,`virtualbox`, `dpkg-package`,`ssh`, `vim`
     - OS: `linux`, `fifo` 
-    - Steuerun: `State machine`
     - Graphischebenutzeroberflache `C`, `GTK2`, `X Server`, `Glade`
     - Datenbank: `Sqlite` , `C`
     - Websnitstelle: `Apache`, `cgi`
@@ -46,20 +60,19 @@
 
 * 2008 – 2010 
     Forschungsprojekt
-    Technologien: `C`, `Linux`, `CAN`
 
-    * Der BioMonitor der LAR Process Analysers AG ist ein Online BSB Messsystem zur Bestimmung des biochemischen Sauerstoffbedarfs (BSB), der Respiration und der Toxizität in Abwässern. Betreiber von Kläranlagen können mit Hilfe des BioMonitors ihre Abwasserbehandlungsanlagen optimal steuern. 
+    * *Der BioMonitor der LAR Process Analysers AG ist ein Online BSB Messsystem zur Bestimmung des biochemischen Sauerstoffbedarfs (BSB), der Respiration und der Toxizität in Abwässern. Betreiber von Kläranlagen können mit Hilfe des BioMonitors ihre Abwasserbehandlungsanlagen optimal steuern.*
+     - Hardware: `CAN`, `Touch Panel PC`
      - Entwicklungumgebung und CI/CD: `svn`, `trac`, `make`, `dpkg-package`,`ssh`
      - Bitriebsystem: `linux`,`fifo`, `state machine`
      - Schnittstelle und kommunikation mit CAN `C`, `linux`, `fifo`
      - Graphischebenutzeroberflache `C`, `GTK2`, `X Server`, `Glade`
 
 * 2006 - 2008 
-    `paskal`, `dos`, `usb`, `network`
     Forschungspraktikant 
+    * Technoligien: `paskal`, `dos`, `usb`, `network`
     * Usb driver und Remotestruerung uber LAN for DOS.
     * Online CSB Messsystem zur Bestimmung des chemischen Sauerstoffbedarfs (CSB) in Abwasserbehandlungsanlagen oder der Prozessindustrie. Softwareoptimisierun und Bugfix. 
-
 
 * 2005 - 2006 
     Wissenschaftlicher Mitarbeiter
