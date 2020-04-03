@@ -1,6 +1,5 @@
 # Aleksandr Smolkov
-📧 `sascha.smolkov@gmail.com`
-🏠 `10249 Berlin` `Muhsamstrasse 72`
+`sascha.smolkov@gmail.com`  `10249 Berlin, Muhsamstrasse 72`
 
 ## Berufserfahrung 
 
@@ -32,7 +31,7 @@
   * Hardware: **`i386` `CAN` `UART` `touch-panel`**
   * OS: **`linux`**
   * Backend: **`c` `c++`, `fifo` `sqlite` `apache` `cgi`**
-  * Frontend: **`c` `gtk2` `x-server` `glade`**
+  * Frontend: **`c` `gtk2` `x-server` `glade` `html` `css` `js`**
 
 ### 2008–2010 Forschungsprojekt ZIM gefördertes Projekt
     
@@ -57,11 +56,12 @@
 
 ## Audbildung
 
-### 2000-2005 Universität für Informationstechnologie 
+### 2000-2005 Universität für Informationstechnologie Taschkent 
 
+Diplom: Telekommunikationstechnik
 
 ## Sprachkenntnisse
 
-* Russisch
-* Deutsch
-* Englisch
+* Russich: Muttersprache
+* Deutsch: Muttersprachniveau
+* Englisch: gute Kenntnisse
