@@ -1,6 +1,7 @@
 module.exports = {
     title: '',
     description: 'Resume, Lebenslauf',
+    base: '/resume/',
     locales: {
         '/': {
           lang: 'de-DE',
