@@ -1,6 +1,5 @@
 
-# Aleksandr Smolkov
-`sascha.smolkov@gmail.com`  `10249 Berlin, Muhsamstrasse 72`
+# Lebenslauf
 
 ## Berufserfahrung 
 
