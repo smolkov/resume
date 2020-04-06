@@ -16,7 +16,7 @@
   * Entwicklungumgebung und CI/CD: **`git` `trac`, `make` `jenkins` `linux` `dpkg-server` `docker` `ssh` `vscode` `vim`**
   * Hardware: **`i386` `CAN` `UART` `touch_panel` `xy_autosampler`**
   * OS: **`linux`**
-  * Backend: **`go` `c` `dbus` `sqlite` `redis`**
+  * Backend: **`go` `c` `dbus` `sqlite` `redis` `profibus` `opc-ua`**
   * Frontend: **`c` `gtk3` `x-server` `glade` `nodm` `js` `vue` `html` `css`**
   
 * Mobile Messstationen, Datenerfassung und Visualisierungsserver 
