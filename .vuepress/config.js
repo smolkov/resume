@@ -1,7 +1,6 @@
 module.exports = {
     title: '',
     description: 'Resume, Lebenslauf',
-    logo: '/public/img/portrait.jpg',
     locales: {
         '/': {
           lang: 'de-DE',
