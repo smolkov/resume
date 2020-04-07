@@ -1,7 +1,7 @@
 module.exports = {
-    title: '',
-    description: 'Resume, Lebenslauf',
     base: '/resume/',
+    title: 'Aleksandr Smolkov',
+    description: 'Resume, Lebenslauf',
     locales: {
         '/': {
           lang: 'de-DE',
