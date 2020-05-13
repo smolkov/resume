@@ -9,7 +9,7 @@
   * Entwicklungumgebung und CI/CD: **`linux` `git`, `github` `github-flow` `cargo` `docker` `dpkg-server` `ssh` `vscode` `vim`**
   * Hardware: **`cortex` `arm` `gpio` `I2C` `SPI` `UART` `bluetooth`**
   * OS: **`linux` `embedded`**
-  * Backend: **`rust` `sqlite` `redis`**
+  * Backend: **`c` `rust` `sqlite` `redis`**
   * Frontend: **`rust` `gtk3` `x server` `glade` `vue` `js` `html` `css`**
 
 * TOC Analysator für schwierigste Abwasserapplikationen.

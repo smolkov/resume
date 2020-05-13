@@ -1,9 +1,9 @@
 module.exports = {
     base: '/resume/',
-    title: 'Aleksandr Smolkov',
-    description: 'Resume, Lebenslauf',
+    title: 'Lebenslauf',
+    description: '',
     locales: {
-        '/': {
+        '/de': {
           lang: 'de-DE',
           title: '',
           description: 'Lebenslauf'
@@ -16,7 +16,7 @@ module.exports = {
     },
     themeConfig: {
       locales: {
-        '/': {
+        '/de': {
           label: 'Deutch',
           selectText: 'Sprache',
           ariaLabel: 'Sprache auswaelen',

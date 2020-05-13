@@ -5,10 +5,10 @@ module.exports = [
     },
     {
       text: "Lebenslauf",
-      link: "/resume/"
+      link: "/cv.html"
     },
     {
       text: "Kontakt",
-      link: "/contact/"
+      link: "/contact.html"
     }
 ]
