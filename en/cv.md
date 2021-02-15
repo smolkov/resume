@@ -7,8 +7,24 @@ navbar: false
 
 ## Berufserfahrung 
 
-### 2010-Heute Softwareentwickler bei LAR Process Analysers AG  
-    
+### 2020-Heite Softwareingenieur bei Sprecher Automation
+
+* Softwareoptimierung und portierung fur Linux
+  * Entwicklungumgebung und CI/CD: **`linux` `git` `github` `lxc` `ssh` `vscode` `vim`**
+  * Hardware: **`arm` `x86_64`**
+  * OS: **`linux`**
+  * Backend: **`c` `rust` `redis`**
+  * Frontend: **`html` `css` `js` `vue` `python`**
+
+### 2010-2020 Softwareingenieur bei LAR Process Analysers AG  
+
+* Mobile Messstationen, Datenerfassung und Visualisierungsserver 
+  * Entwicklungumgebung und CI/CD: **`linux` `git` `github` `docker` `cargo` `ssh` `vscode` `vim`**
+  * Hardware: **`arm` `x86_64` `UART`**
+  * OS: **`linux`**
+  * Backend: **`go` `rust` `sqlite` `redis`**
+  * Frontend: **`apache` `html` `css` `js` `vue`**    
+
 * TOC Analysator für partikelarme Wässer
   * Entwicklungumgebung und CI/CD: **`linux` `git`, `github` `github-flow` `cargo` `docker` `dpkg-server` `ssh` `vscode` `vim`**
   * Hardware: **`cortex` `arm` `gpio` `I2C` `SPI` `UART` `bluetooth`**
@@ -22,13 +38,6 @@ navbar: false
   * OS: **`linux`**
   * Backend: **`go` `c` `dbus` `sqlite` `redis` `profibus` `opc-ua`**
   * Frontend: **`c` `gtk3` `x-server` `glade` `nodm` `js` `vue` `html` `css`**
-  
-* Mobile Messstationen, Datenerfassung und Visualisierungsserver 
-  * Entwicklungumgebung und CI/CD: **`linux` `git` `jenkins` `docker` `dpkg-server` `ssh` `vscode` `vim`**
-  * Hardware: **`arm` `x86_64` `UART`**
-  * OS: **`linux`**
-  * Backend: **`python` `go` `rust` `sqlite` `redis`**
-  * Frontend: **`python` `gtk3` `x-server` `glade` `apache` `html` `css` `js`**
     
 * Toxizitätsmessgerät zum Schutz der Kläranlagenbiologie.
   * Entwicklungumgebung und CI/CD: **`linux` `svn` `trac` `automake` `jenkins` `valgrind` `virtualbox` `dpkg-package` `ssh` `eclipse` `vim`**
