@@ -11,11 +11,11 @@ navbar: false
 ### 2020-Heite Softwareingenieur bei Sprecher Automation
 
 -   Softwareoptimierung und portierung fur Linux
-    -   Entwicklungumgebung und CI/CD: **`linux` `git` `jenkins` `lxc` `ssh` `vscode` `vim`**
+    -   Entwicklungumgebung und CI/CD: **`linux` `git` `makefile` `meson` `jenkins` `lxc` `ssh` `vscode` `vim`**
     -   Hardware: **`arm` `x86_64`**
     -   OS: **`linux`**
-    -   Backend: **`c` `rust` `redis`**
-    -   Frontend: **`html` `css` `js` `vue.js` `python`**
+    -   Backend: **`c` `c++` `rust` `redis`**
+    -   Frontend: **`html` `css` `js` `node.js` `vue.js` `python`**
 
 ### 2010-2020 Softwareingenieur bei LAR Process Analysers AG  
 
@@ -24,35 +24,35 @@ navbar: false
     -   Hardware: **`arm` `x86_64` `UART` `modbus`**
     -   OS: **`linux`**
     -   Backend: **`rust` `go` `sqlite` `redis`**
-    -   Frontend: **`rust` `gtk3` `x-server` `glade` `js` `html` `css`**
+    -   Frontend: **`html` `css` `js` `node.js` `vue.js`**
 
 -   TOC Analysator für partikelarme Wässer
     -   Entwicklungsumgebung und CI/CD: **`linux` `git` `github` `github-flow` `cargo` `docker` `dpkg-server` `ssh` `vscode` `vim`**
     -   Hardware: **`cortex` `arm` `gpio` `I2C` `SPI` `UART`**
     -   OS: **`linux` `embedded`**
     -   Backend: **`c` `rust` `sqlite` `redis` `profibus` `opc-ua`**
-    -   Frontend: **`rust` `gtk3` `x-server` `glade` `js` `node.js` `html` `css`**
+    -   Frontend: **`rust` `gtk3` `x-server` `glade` `html` `css` `js` `node.js` **
 
 -   Lizenz und Zugriffsverwaltung Server
     -   Entwicklungsumgebung und CI/CD: **`linux` `git` `github` `docker` `ssh` `vscode` `vim`**
     -   Hardware: **`x86_64` `arm`**
     -   OS: **`linux`**
     -   Backend: **`go` `mysql` `redis`**
-    -   Frontend: **`js` `node.js` `html` `css`**
+    -   Frontend: **`html` `css` `js` `node.js`**
 
 -   TOC Analysator für schwierigste Abwasserapplikationen
     -   Entwicklungsumgebung und CI/CD: **`git` `trac` `make` `jenkins` `linux` `dpkg-server` `docker` `ssh` `vscode` `vim`**
     -   Hardware: **`i386` `CAN` `UART` `touch_panel` `xy_autosampler`**
     -   OS: **`linux`**
     -   Backend: **`c` `dbus` `sqlite` `redis` `profibus`**
-    -   Frontend: **`c` `gtk3` `x-server` `glade` `nodm` `js` `vue.js` `html` `css`**
+    -   Frontend: **`c` `gtk3` `x-server` `glade` `nodm` `html` `css` `js` `vue.js`**
 
 -   Toxizitätsmessgerät zum Schutz der Kläranlagenbiologie.
     -   Entwicklungsumgebung und CI/CD: **`linux` `svn` `trac` `automake` `jenkins` `valgrind` `virtualbox` `dpkg-package` `ssh` `eclipse` `vim`**
     -   Hardware: **`i386` `CAN` `UART` `touch-panel`**
     -   OS: **`linux`**
     -   Backend: **`c` `go` `sqlite` `apache` `cgi`**
-    -   Frontend: **`c` `gtk2` `x-server` `glade` `js` `html` `css`**
+    -   Frontend: **`c` `gtk2` `x-server` `glade` `html` `css` `js`**
 
 ### 2008–2010 Forschungsprojekt ZIM gefördertes Projekt
 
@@ -61,7 +61,7 @@ navbar: false
     -   Hardware: **`i386` `CAN` `UART` `touch-panel`**
     -   OS: **`linux`**
     -   Backend: **`c` `c++` `apache` `cgi`**
-    -   Frontend: **`c` `gtk2` `x-server` `glade` `js` `html` `css`**
+    -   Frontend: **`c` `gtk2` `x-server` `glade` `html` `css` `js`**
 
 ### 2006-2008 Forschungspraktikant BMWi gefördertes Projekt
 
